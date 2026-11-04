@@ -10,12 +10,10 @@ El proyecto utiliza datos de prueba; no consulta cuentas reales ni registra soli
 
 | Recurso | Enlace |
 |---|---|
-| Agente Lumi | PEGAR_ENLACE_AGENTE |
-| Repositorio GitHub | PEGAR_ENLACE_REPOSITORIO |
-| Video demo en Loom | PEGAR_ENLACE_VIDEO |
-| Captura de las seis pruebas aprobadas | PEGAR_ENLACE_PRUEBAS |
-| Transcripción y análisis de consulta de factura | PEGAR_ENLACE_FACTURA |
-| Transcripción y análisis de reporte de falla | PEGAR_ENLACE_FALLA |
+| Agente Lumi | https://elevenlabs.io/app/talk-to?agent_id=agent_5301m6fnbn02ennrn1wx6h1krphq&branch_id=agtbrch_1201m6fnbq59fwqbbkwyy4m8cv3x |
+| Repositorio GitHub | https://github.com/julianarochakjrs-design/prueba-tecnica-lumi-2nv |
+| Video demo en Loom | https://www.loom.com/share/bd0e5b0e9bef4752a545a2eb30815067 |
+| Captura de las seis pruebas aprobadas | https://drive.google.com/file/d/1IVgVRFQjHUvP14nK3WZypmBssqlkDhzZ/view?usp=sharing |
 
 
 ## Alcance funcional
